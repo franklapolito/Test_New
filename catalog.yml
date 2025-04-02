@@ -1,0 +1,6 @@
+version: 1
+unique_name: Testing_New
+object_type: catalog
+label: Testing_New
+aggressive_agg_promotion: false
+build_speculative_aggs: true

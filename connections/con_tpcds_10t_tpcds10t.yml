@@ -1,0 +1,6 @@
+unique_name: con_tpcds_10t_tpcds10t
+object_type: connection
+label: con_tpcds_10t_tpcds10t
+as_connection: Databricks_Demo_SE
+database: tpcds_10t
+schema: tpcds10t

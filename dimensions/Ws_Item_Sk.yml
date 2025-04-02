@@ -1,0 +1,18 @@
+unique_name: Ws_Item_Sk
+object_type: dimension
+label: Ws Item Sk
+hierarchies:
+  - unique_name: Ws_Item_Sk_Hierarchy
+    label: Ws Item Sk Hierarchy
+    levels:
+      - unique_name: Ws_Item_Sk_Level
+is_degenerate: true
+level_attributes:
+  - unique_name: Ws_Item_Sk_Level
+    label: Ws Item Sk Level
+    contains_unique_names: false
+    dataset: web_sales
+    key_columns:
+      - ws_item_sk
+    name_column: ws_item_sk
+type: standard

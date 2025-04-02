@@ -1,0 +1,8 @@
+unique_name: Test_Model
+object_type: model
+label: Test_Model
+dimensions:
+  - Ws_Item_Sk
+metrics:
+  - unique_name: m_web_sales_ws_sales_price_sum
+relationships: []
